@@ -14,23 +14,6 @@ A simple and responsive calculator built using React. This application performs 
 
 ---
 
-## 🖼️ Screenshot
-```
-![Calculator Screenshot](./screenshot.png)
-```
-
----
-
-## 🚀 Live Demo
-
-*Add your deployed link here (Netlify / Vercel)*
-
-```
-https://your-calculator-app.netlify.app
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * React.js
@@ -67,16 +50,6 @@ npm start
 * Button clicks update the state dynamically.
 * Expressions are evaluated using JavaScript logic.
 * The UI updates instantly based on user interactions.
-
----
-
-## 🔮 Future Improvements
-
-* 🧪 Add scientific calculator functions
-* 🌙 Dark / Light mode toggle
-* 📜 Calculation history
-* 🎨 Improved UI animations
-* ⌨️ Full keyboard support
 
 ---
 
