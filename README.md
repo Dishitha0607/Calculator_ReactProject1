@@ -1,16 +1,86 @@
-# React + Vite
+# 🧮 React Calculator
+A simple and responsive calculator built using React. This application performs basic arithmetic operations with a clean user interface and smooth user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📌 Features
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🔄 Clear / Reset functionality
+* 📱 Responsive design
+* ⚠️ Basic error handling (e.g., divide by zero)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🖼️ Screenshot
+```
+![Calculator Screenshot](./screenshot.png)
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Add your deployed link here (Netlify / Vercel)*
+
+```
+https://your-calculator-app.netlify.app
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/react-calculator.git
+
+# Navigate to the project folder
+cd react-calculator
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+---
+
+
+## 🧠 How It Works
+
+* The calculator uses **React state** to store user input and results.
+* Button clicks update the state dynamically.
+* Expressions are evaluated using JavaScript logic.
+* The UI updates instantly based on user interactions.
+
+---
+
+## 🔮 Future Improvements
+
+* 🧪 Add scientific calculator functions
+* 🌙 Dark / Light mode toggle
+* 📜 Calculation history
+* 🎨 Improved UI animations
+* ⌨️ Full keyboard support
+
+---
+
+
+## 🙌 Acknowledgements
+
+Built as a beginner-friendly project to practice React fundamentals and improve frontend development skills.
